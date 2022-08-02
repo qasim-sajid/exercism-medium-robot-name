@@ -1,7 +1,4 @@
-# Robot Name
-
-Welcome to Robot Name on Exercism's Go Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
+Solution for a coding exercise on Exercism: https://exercism.org/tracks/go/exercises/robot-name
 
 ## Instructions
 
@@ -32,30 +29,3 @@ t.Skip("skipping test as it can take a long time to run if solution is sub-optim
 ```
 
 To get this test to pass you'll have to ensure a robot's name has not been used before and that names can be allocated efficiently.
-
-## Source
-
-### Created by
-
-- @soniakeys
-
-### Contributed to by
-
-- @alebaffa
-- @bitfield
-- @ekingery
-- @ferhatelmas
-- @h311ion
-- @hilary
-- @kytrinyx
-- @leenipper
-- @papahmsolo
-- @petertseng
-- @robphoenix
-- @sebito91
-- @tleen
-- @waynr
-
-### Based on
-
-A debugging session with Paul Blackwell at gSchool.
