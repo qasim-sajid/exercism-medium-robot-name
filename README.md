@@ -1,7 +1,4 @@
-# Robot Name
-
-Welcome to Robot Name on Exercism's Go Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
+Solution for a coding exercise on Exercism: https://exercism.org/tracks/go/exercises/robot-name
 
 ## Instructions
 
